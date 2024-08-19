@@ -1,4 +1,4 @@
-# Hi, I'm Thai Duong ("spell Tai Young") 👋
+# Hi, I'm Thai Duong (" read as Tai Young") 👋
 
 ## About Me ℹ️
 
