@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-I'm Thai Duong, i'm a Software Engineer, I make software ( with technologies listed below)
+I'm Thai Duong, i'm a Software Engineer, I make software 😘 (with technologies listed below)
 
 
 ## Education 📚
