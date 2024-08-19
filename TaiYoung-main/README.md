@@ -15,7 +15,7 @@ I'm Thai Duong, i'm a Software Engineer, I make software ( with technologies lis
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,c,cpp,java,python,javascript,typescript,html,css,react,nodejs,expressjs,nextjs,mysql,mongodb,postgresql,rabbitmq,firebase,bash,linux,aws,supabase" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,c,cpp,java,javascript,typescript,html,css,react,nodejs,expressjs,nextjs,mysql,mongodb,postgresql,firebase,linux,aws,supabase" />
   </a>
 </p>
 
